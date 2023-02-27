@@ -3,6 +3,8 @@ We proposed SADENet for tiny person detection.
 
 :blush: The model structure figure will come soon!!
 
+# Dataset
+> Thanks for the TinyPerson dataset! https://github.com/ucas-vg/PointTinyBenchmark
 
 # Quantity visualizations:eyes:
 
@@ -10,8 +12,6 @@ We proposed SADENet for tiny person detection.
 
 
 # Reference
-> Thanks for the datasets TinyPerson! https://github.com/ucas-vg/PointTinyBenchmark
-
 
 [1] Chen, Kai, et al. "MMDetection: Open mmlab detection toolbox and benchmark." arXiv preprint arXiv:1906.07155 (2019).
 
