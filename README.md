@@ -6,7 +6,7 @@ We proposed SADENet for tiny person detection.
 
 # Some visualizations
 
-![]
+![1](https://github.com/PrymceQ/SADENet/blob/6719af7b6eba4bdca0239219bb67e75dab048bc9/img/bb_V0009_I0001280.png)
 
 
 # Reference
