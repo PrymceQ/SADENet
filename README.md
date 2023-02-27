@@ -1,12 +1,12 @@
 # SADENet
 We proposed SADENet for tiny person detection.
 
+:blush: The model structure figure will come soon!!
 
 
+# Quantity visualizations:eyes:
 
-# Some visualizations
-
-![1](https://github.com/PrymceQ/SADENet/blob/6719af7b6eba4bdca0239219bb67e75dab048bc9/img/bb_V0009_I0001280.png?width=0.5)
+![1](https://github.com/PrymceQ/SADENet/blob/6719af7b6eba4bdca0239219bb67e75dab048bc9/img/bb_V0009_I0001280.png)
 
 
 # Reference
